@@ -22,7 +22,7 @@ some_important_knowledge = avi.teach
 
 steve.learn(some_knowledge)
 steve.learn(some_important_knowledge)
-thomas.learn(some_knowledge)
+thomas.learn(some_important_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 puts "Thomas just learned this important knowledge: '#{thomas.knowledge.first}' from Avi"
